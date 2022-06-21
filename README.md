@@ -1,1 +1,1 @@
-# hubspotdemo
+# getting-started-project-template
